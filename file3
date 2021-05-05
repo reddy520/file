@@ -1,0 +1,4 @@
+#! /bin/bash
+echo " this is my first commit "
+sleep 4
+echo " thsi is my second commit"
