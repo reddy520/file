@@ -1,0 +1,6 @@
+#! /bin/bash
+echo "my name is reddy"
+sleep 3
+echo "my name is india"
+sleep 2
+echo "my name is china"
