@@ -1,0 +1,5 @@
+#! /bin/bash
+echo "my friend"
+sleep 1
+echo "my sedcond"
+sleep 2
