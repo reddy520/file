@@ -1,0 +1,4 @@
+#! /bin/bash
+echo "my name is vu"
+sleep 2
+echo "this is my first commit"
